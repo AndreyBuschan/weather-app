@@ -1,1 +1,1 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"/><title>Wather App</title><script defer="defer" src="/static/js/main.ab327624.js"></script><link href="/static/css/main.0709d5b1.css" rel="stylesheet"></head><body><div id="root"></div></body></html>
+
